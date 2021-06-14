@@ -47,7 +47,7 @@ The code was tested and fully functinal on GNU/Linux (Ubuntu 16)
 ### NodeMCU library installation
 
 Please refer to oficial [NodeMCU/ESP8266](https://nodemcu.readthedocs.io/en/release/getting-started/) installation guide to install the binaries in `/install/nodemcu`
-Also includes on how to upload code to the microcontroller. You will find the source code on `/src/nodemcu/init.lua`
+Also includes on how to upload code to the microcontroller. Once installed the binaries, upload the microcontroller code. You will find the source code on `/src/nodemcu/init.lua`
 
 ### Additional dependencies
 
