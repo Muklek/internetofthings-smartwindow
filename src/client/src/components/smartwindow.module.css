@@ -1,0 +1,20 @@
+.boxarea {
+  margin-top:20px;
+  margin-bottom: 30px;
+  padding: 10px;
+  border-style: dotted;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.boxoptions {
+  display:flex;
+  flex-flow: wrap;
+}
+
+.box {
+  width: 100px;
+  border-style: solid;
+  padding: 5px;
+  margin: 10px;
+}
