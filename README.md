@@ -53,12 +53,13 @@ Also includes on how to upload code to the microcontroller. Once installed the b
 
 Before running any client or server code please install the dependencies:
 
+<b>Python3 requirements:</b>
+```
+pip3 install -r requirements.txt
+```
+
+<b>JavaScript requirements:</b>
 - nodeJS v12
-- fastAPI
-- uvicorn
-- keras - tensorflow
-- scikit-learn
-- pandas
 
 ### Client
 
